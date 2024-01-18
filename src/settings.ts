@@ -6,4 +6,4 @@ export const PLATFORM_NAME = 'svit-platform';
 /**
  * This must match the name of your plugin as defined the package.json
  */
-export const PLUGIN_NAME = 'homebridge-test-plugin';
+export const PLUGIN_NAME = 'notcurrentuser-home-bridge-test-plugin';
